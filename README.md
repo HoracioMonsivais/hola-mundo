@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# hola Mundo
+Mi primer repositorio
 
 Autor: Horacio M.
 Fecha: 2 de febrero.
